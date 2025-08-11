@@ -1,0 +1,10 @@
+# Python
+venv/
+_pycache_/
+*.pyc
+db.sqlite3
+
+# Node
+node_modules/
+build/
+.env
